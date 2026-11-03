@@ -1,0 +1,86 @@
+============================================================
+AKADEMİA
+Akademik Durum İzleme ve Analiz Bilgi Sistemi
+KULLANIM KILAVUZU
+============================================================
+
+İÇİNDEKİLER
+  1. Uygulama Nasıl Açılır
+  2. Açılışta Uyarı Çıkarsa (Makro / İçeriği Etkinleştir)
+  3. Yeni kullanıcıysanız (Kayıt)
+  4. Giriş
+  5. Sık Karşılaşılan Sorunlar 
+
+------------------------------------------------------------
+1. UYGULAMA NASIL AÇILIR
+------------------------------------------------------------
+Size verilen "AKADEMİA" başlatıcısına ÇİFT TIKLAYIN.
+
+  - İlk açılışta uygulama bilgisayarınıza kopyalanır (birkaç saniye 
+    sürebilir), sonra kendiliğinden açılır.
+  - Sonraki açılışlar daha hızlıdır.
+
+Not: Uygulamayı başka bir dosyadan değil, HER ZAMAN bu başlatıcıdan açın. Böylece her zaman en güncel sürümü kullanırsınız.
+
+------------------------------------------------------------
+2. AÇILIŞTA UYARI ÇIKARSA (MAKRO / İÇERİĞİ ETKİNLEŞTİR)
+------------------------------------------------------------
+Uygulama İLK KEZ açılırken bir veya iki güvenlik uyarısı çıkabilir.
+Aşağıdaki adımları sırayla uygulayın; bunlar normaldir ve güvenlidir.
+
+  a) Ortada bir "Makro" penceresi çıkarsa (içinde "Tüm Makroları
+     Durdur" düğmesi olan pencere):
+
+	>>> "Tüm Makroları Durdur" düğmesine basın. <<<
+
+  b) Üstte SARI bir şerit ve "İçeriği Etkinleştir" yazısı çıkarsa:
+
+	>>> "İçeriği Etkinleştir" düğmesine BİR KEZ tıklayın. <<<
+
+Uygulama kendiliğinden açılmazsa, başlatıcıyı KAPATIP yeniden açın.
+Sonraki açılışlarda bu uyarılar genellikle bir daha çıkmaz.
+
+(Bu adımları yapmazsanız uygulama düzgün açılmayabilir.)
+
+------------------------------------------------------------
+3. YENİ KULLANICIYSANIZ (KAYIT)
+------------------------------------------------------------
+  1) Giriş ekranında "Kayıt Ol" düğmesine basın.
+  2) Bilgilerinizi (TC, ad-soyad, birim, e-posta, tarihler vb.)
+     eksiksiz doldurup kaydedin.
+  3) Kaydınız yönetici onayına düşer. ONAYLANINCA giriş yapabilirsiniz.
+
+Onaylanmadan giriş denerseniz "Kaydınız henüz onaylanmamıştır"
+uyarısı alırsınız - bu normaldir, onay bekleyin.
+
+------------------------------------------------------------
+4. GİRİŞ
+------------------------------------------------------------
+  - TC Kimlik No + parolanızla giriş yapın.
+  - Parola en az 6 karakter olmalıdır.
+  - Parolanızı unutursanız giriş ekranındaki "Şifremi Unuttum" ile
+    e-posta üzerinden sıfırlayabilir ya da yöneticinize başvurabilirsiniz.
+
+------------------------------------------------------------
+5. SIK KARŞILAŞILAN SORUNLAR
+------------------------------------------------------------
+"Ortada 'Makro' / 'Tüm Makroları Durdur' penceresi çıktı"
+  - "Tüm Makroları Durdur"a basın, sonra üstteki sarı şeritte
+    "İçeriği Etkinleştir"e tıklayın (bkz. 2. bölüm). Normaldir.
+
+"Üstte sarı 'İçeriği Etkinleştir' uyarısı çıktı"
+  - "İçeriği Etkinleştir" düğmesine tıklayın  (bkz. 2. bölüm). Normaldir.
+
+"Kullanıcı bulunamadı"
+  - TC veya parolayı yanlış girmiş olabilirsiniz. Konrol edip
+    tekrar deneyin.
+
+"Kaydınız henüz onaylanmamıştır"
+  - Kaydınız yönetici onayı bekliyor. Onaylanınca giriş yapabilirsiniz.
+
+"Hesabınız pasife alınmıştır"
+  - Sistem yöneticinizle görüşün.
+
+============================================================
+  Sorularınız için: sistem yöneticisi
+============================================================
